@@ -17,6 +17,10 @@ public class Lanceur {
                 System.out.println("Coucou le monde"); 
                 
                 int a = 2+3;
+                int b = 3+3;
+                int c =3+4;
+                
+                System.out.println("Les résultats sont: "+ a +" "+b+" "+c);
    }
     
 }
