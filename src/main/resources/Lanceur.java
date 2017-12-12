@@ -16,7 +16,9 @@ public class Lanceur {
     public static void main(String[] args) {
                 System.out.println("Coucou le monde"); 
                 
-                int a = 2+3;
+                              
+                String message = "Pas de calculs par ici";
+                System.out.println(message);
    }
     
 }
