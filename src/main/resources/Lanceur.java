@@ -15,6 +15,10 @@ public class Lanceur {
      */
     public static void main(String[] args) {
                 System.out.println("Coucou le monde"); 
+                
+                int a = 2+2;
+                
+                System.out.println("Le résultat est "+ a);
    }
     
 }
