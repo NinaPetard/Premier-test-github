@@ -16,6 +16,11 @@ public class Lanceur {
     public static void main(String[] args) {
                 System.out.println("Coucou le monde"); 
                 
+                int a = 2+3;
+                int b = 3+3;
+                int c =3+4;
+                
+                System.out.println("Les résultats sont: "+ a +" "+b+" "+c);
                               
                 String message = "Pas de calculs par ici";
                 System.out.println(message);
